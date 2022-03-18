@@ -1,0 +1,14 @@
+/* 100 */
+#paragraphe-1 {
+  color: blue;
+}
+
+/* 10 */
+.text {
+  color: yellow;
+}
+
+/* 20 */
+.text.small {
+  color: green;
+}
