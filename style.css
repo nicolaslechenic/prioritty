@@ -8,6 +8,11 @@
   color: yellow;
 }
 
+/* 1 */
+p {
+  color: pink;
+}
+
 /* 20 */
 .text.small {
   color: green;
